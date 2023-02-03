@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [19.7.0](https://github.com/puppeteer/puppeteer/compare/puppeteer-core-v19.6.3...puppeteer-core-v19.7.0) (2023-02-03)
+
+
+### Features
+
+* add touchstart, touchmove and touchend methods ([#9622](https://github.com/puppeteer/puppeteer/issues/9622)) ([c8bb11a](https://github.com/puppeteer/puppeteer/commit/c8bb11adfcf1537032730a91baa3c36a6e324926))
+
 ## [19.6.3](https://github.com/puppeteer/puppeteer/compare/puppeteer-core-v19.6.2...puppeteer-core-v19.6.3) (2023-02-01)
 
 
